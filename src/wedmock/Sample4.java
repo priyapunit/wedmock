@@ -7,6 +7,8 @@ public class Sample4 {
 		int a=31,b=2,rem;
 		rem=a%b;
 		System.out.println(rem);
+		int mul ;
+		mul=a*b;
 
 	}
 
