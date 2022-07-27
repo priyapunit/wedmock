@@ -8,6 +8,8 @@ int x=25,y=5;
 int div;
 div=x/y;
 System.out.println(div);
+		int sub=x-y;
+		System.out.println(sub);
 	}
 
 }
